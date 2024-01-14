@@ -1,0 +1,11 @@
+streamlit
+pandas
+scikit-learn
+plotly
+streamlit-option-menu
+requests
+streamlit-lottie
+pydeck
+snowflake-connector-python
+folium
+streamlit-folium
